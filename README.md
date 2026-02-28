@@ -1,1 +1,11 @@
-# CS250
+1) How do I interpret user needs and implement them into a program? How does creating user stories help?
+
+For me, interpreting user needs starts with understanding what the user is actually trying to accomplish, not just what feature they’re asking for. Once I understand the goal, I can break it down into smaller pieces that can be built and tested. User stories helped a lot with this because they force me to be specific about who the user is, what they want to do, and why it matters. That “so that…” part keeps me focused on the value instead of jumping straight to coding. It also made it easier to spot gaps. If a user story felt unclear, it usually meant I needed more details before building anything, and that saved time compared to building first and fixing later.
+
+2) How do I approach developing programs? What Agile processes do I hope to use in the future?
+
+I’ve learned I work best when I don’t treat development like one long, perfect plan. I’d rather build in smaller cycles, check progress often, and adjust when new information comes in. The Agile habits I want to keep are keeping a prioritized backlog, refining user stories before starting work, and using a Definition of Done so everyone agrees what “finished” really means. I also like using a simple board to track work because it keeps me honest. If something is stuck, I can see it right away instead of pretending progress is happening. In the future, I want my process to feel steady and realistic: deliver small improvements, get feedback, and keep quality built in instead of pushing it to the end.
+
+3) What does it mean to be a good team member in software development?
+
+Being a good team member isn’t just doing my part and disappearing. It means communicating clearly, asking questions early when something doesn’t make sense, and helping the team move work across the finish line. I think it also means not letting work get trapped with one person. If I have knowledge that would help someone else, I should share it so the team isn’t dependent on a single “expert.” And honestly, it means respecting team standards like the Definition of Done. If the team says “done” includes testing and review, then I shouldn’t cut corners just to move faster, because that usually creates more problems later.
